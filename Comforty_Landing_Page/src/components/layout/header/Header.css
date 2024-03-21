@@ -1,0 +1,14 @@
+.header {
+  height: 50px;
+  background-color: #272343;
+}
+.top-line {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 50px;
+}
+
+.infos-on-top {
+  display: flex;
+  flex-direction: row;
+}
