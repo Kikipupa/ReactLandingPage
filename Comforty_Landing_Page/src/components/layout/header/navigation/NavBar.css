@@ -1,0 +1,23 @@
+.nav-bar {
+  display: flex;
+  background-color: #f0f2f3;
+  height: 84px;
+  align-items: center;
+}
+
+.main-nav-bar {
+  display: flex;
+  height: 40px;
+}
+
+.search-input {
+  padding: 8px;
+  width: 200px;
+  border: none;
+}
+
+.search-button {
+  padding: 6px;
+  background-color: white;
+  border: none;
+}
